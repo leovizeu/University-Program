@@ -22,3 +22,6 @@ To run the program you need to enter your terminal, make a <strong>CD</strong> c
 
 Simply use the code:
 >`python crud.py`
+
+
+### Now you can test it ;)
